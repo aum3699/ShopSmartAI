@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ShopSmart AI
 
 ShopSmart AI is a React and Flask local marketplace with seller tools,# ShopSmart AI
